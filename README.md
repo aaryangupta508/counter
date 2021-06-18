@@ -1,1 +1,1 @@
-# cq-counter
+# counter
